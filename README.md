@@ -4,9 +4,8 @@
 🔥 Script to improve gameplay.
 
 ## Features
-- Auto farm
-- Auto aim
-- Speed boost
+- Auto Freeze Trade
+- Auto Accept
 
 ## Installation
 1. Download the script
